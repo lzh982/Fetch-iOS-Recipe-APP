@@ -8,7 +8,7 @@ This iOS app functions as a recipe browser, allowing users to explore and discov
 - Display dessert details, including:
   - Dessert name
   - Dessert image
-  -Link to the youtube video.
+  - Link to the youtube video.
 
 ## Demo
 Here's a quick demo of the Fetch iOS app:

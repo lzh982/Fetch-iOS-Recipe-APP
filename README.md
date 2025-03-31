@@ -13,7 +13,7 @@ This iOS app functions as a recipe browser, allowing users to explore and discov
 ## Demo
 Here's a quick demo of the Fetch iOS app:
 
-<img src="https://github.com/lzh982/Fetch-iOS-Recipe-APP/blob/main/demo.gif" alt="Demo" width="300">
+<img src="https://github.com/lzh982/Fetch-iOS-Recipe-APP/blob/main/fetch-ios-app/demo.gif" alt="Demo" width="300">
 
 ## API Endpoints
 The app utilizes endpoint from the following API:

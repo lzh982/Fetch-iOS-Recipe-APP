@@ -1,30 +1,26 @@
 # Fetch - iOS Coding Challenge
 
-This iOS app is a recipe browser that allows users to explore and discover dessert recipes from [TheMealDB API](https://themealdb.com/api.php). The app provides a user-friendly interface to list dessert meals and view their details.
+This iOS app functions as a recipe browser, allowing users to explore and discover a wide range of dessert recipes. It provides an intuitive interface to browse various dessert dishes and view detailed information.
 
 ## Features
-- List dessert meals alphabetically.
-- Display meal details, including:
-  - Meal name
-  - Meal image
-  - Instructions
-  - Ingredients and measurements
+- Features implemented
+- The dessert list view
+- Display dessert details, including:
+  - Dessert name
+  - Dessert image
+  -Link to the youtube video.
 
 ## Demo
-
 Here's a quick demo of the Fetch iOS app:
 
-<img src="https://github.com/chiao26168/fetch-ios-app/blob/main/demo.gif" alt="Demo" width="300">
+<img src="https://github.com/lzh982/Fetch-iOS-Recipe-APP/blob/main/demo.gif" alt="Demo" width="300">
 
 ## API Endpoints
 The app utilizes two endpoints from TheMealDB API:
 - **List of Dessert Meals:** The app fetches the list of dessert meals using the following endpoint:
-  - [https://themealdb.com/api/json/v1/1/filter.php?c=Dessert](https://themealdb.com/api/json/v1/1/filter.php?c=Dessert)
-
-- **Meal Details:** When a user selects a specific meal, the app fetches its details by its ID using this endpoint:
-  - [https://themealdb.com/api/json/v1/1/lookup.php?i=MEAL_ID](https://themealdb.com/api/json/v1/1/lookup.php?i=MEAL_ID)
+  -  https://d3jbb8n5wk0qxi.cloudfront.net/recipes.json
 
 ## Development Environment
-- The project is developed and compiled using Xcode 15.0.
+- The project is developed and compiled using Xcode 16.0.
 
 # Fetch-iOS-Recipe-APP

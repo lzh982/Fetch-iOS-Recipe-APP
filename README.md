@@ -16,7 +16,7 @@ Here's a quick demo of the Fetch iOS app:
 <img src="https://github.com/lzh982/Fetch-iOS-Recipe-APP/blob/main/demo.gif" alt="Demo" width="300">
 
 ## API Endpoints
-The app utilizes two endpoints from TheMealDB API:
+The app utilizes endpoint from the following API:
 - **List of Dessert Meals:** The app fetches the list of dessert meals using the following endpoint:
   -  https://d3jbb8n5wk0qxi.cloudfront.net/recipes.json
 
